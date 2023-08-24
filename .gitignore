@@ -1,0 +1,12 @@
+Doku
+STM32L476RGTX_FLASH.ld
+STM32L476RGTX_RAM.ld
+template
+.project
+.cproject
+.mxproject
+.settings
+Debug
+*.ioc
+Middlewares/Third_Party/FatFs
+
